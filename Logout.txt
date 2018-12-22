@@ -1,0 +1,7 @@
+Hello this is file logout
+
+Wow this is header of file logout
+
+Hahah.This is content of file logout
+
+Wow This is footer of file logout
